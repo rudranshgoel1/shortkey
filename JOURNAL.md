@@ -5,6 +5,17 @@ description: "Planck keyboard"
 created_at: "2026-10-13"
 ---
 
+# 2026-10-13: Placement (omg so tiring)
+
+**Total time spent: 42 minutes**
+
+# what did i do?
+- placement of every key and its diode
+- it is so tiring + it is so repetitive
+- you have to be careful to line up the squares otherwise the pcb could go wrong and the keycaps would collide with each other
+- in between i realised i messed up by assigning the 2u footprint to SW_31 instead of SW_42
+- but i fixed it and took care of it![Screenshot_2026-10-14_at_1.10.33_AM.png](https://cdn.hackclub.com/01a136c8-024a-7e92-97e0-5d3e586e95d6/Screenshot_2026-10-14_at_1.10.33_AM.png)
+
 # 2026-10-13: Started with Schematic
 
 **Total time spent: 40 minutes**
