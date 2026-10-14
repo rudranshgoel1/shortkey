@@ -1,0 +1,11 @@
+file_format: "1"
+id: planck_wireless
+name: Planck Wireless
+type: shield
+url: https://example.com/planck-wireless
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - underglow

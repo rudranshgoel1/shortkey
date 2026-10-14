@@ -1,0 +1,4 @@
+# No whitespace after the comma or in the shield name!
+
+config SHIELD_PLANCK_WIRELESS
+    def_bool $(shields_list_contains,planck_wireless)
