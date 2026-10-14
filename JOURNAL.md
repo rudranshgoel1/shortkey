@@ -35,6 +35,18 @@ created_at: "2026-10-13"
 
 ![Screenshot_2026-10-14_at_8.54.04_PM.png](https://cdn.hackclub.com/01a13b03-82b4-7341-a2f6-2ab823f82e52/Screenshot_2026-10-14_at_8.54.04_PM.png)
 
+# 2026-10-14: added oled display
+
+**Total time spent: 25 minutes**
+
+# what did i do?
+- added 0.91 inch oled display for displaying pc stats or weather or anything
+- it could also be a small pet on our keyboard
+
+![Screenshot_2026-10-15_at_1.52.35_AM.png](https://cdn.hackclub.com/01a13c15-157d-76fa-9db5-1875777a8ddd/Screenshot%202026-10-15%20at%201.52.35%E2%80%AFAM.png)
+![Screenshot_2026-10-15_at_1.52.17_AM.png](https://cdn.hackclub.com/01a13c15-1474-7b54-a495-25535ada2e14/Screenshot%202026-10-15%20at%201.52.17%E2%80%AFAM.png)
+
+
 # 2026-10-14: CAD
 
 **Total time spent: 1 hour 3 minute**
