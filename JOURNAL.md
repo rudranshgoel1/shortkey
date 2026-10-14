@@ -5,6 +5,18 @@ description: "Planck keyboard"
 created_at: "2026-10-13"
 ---
 
+# 2026-10-14: CAD
+
+**Total time spent: 1 hour 3 minute**
+
+# what did i do?
+- cad
+- hardest part was CAD, on god i hate this
+- also rounded the corner with a 3mm fillet
+- added m3 screws (1.5mm radius) holes in the case
+
+![Screenshot_2026-10-14_at_2.43.54_PM.png](https://cdn.hackclub.com/01a139b0-a9c4-72a8-a83a-9b56f2643eeb/Screenshot_2026-10-14_at_2.43.54_PM.png)![Screenshot_2026-10-14_at_2.44.09_PM.png](https://cdn.hackclub.com/01a139b0-d48e-7872-acd0-d048894a1d54/Screenshot_2026-10-14_at_2.44.09_PM.png)
+
 # 2026-10-14: routing
 
 **Total time spent: 42 minutes**
