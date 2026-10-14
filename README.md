@@ -20,6 +20,7 @@ Features:
 
 ### Schematic
 ![image](images/schem1.png)
+![image](images/schem2.png)
 
 ### PCB 
 ![image](images/pcb.png)
