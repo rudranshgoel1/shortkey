@@ -5,6 +5,24 @@ description: "Planck keyboard"
 created_at: "2026-10-13"
 ---
 
+# 2026-10-14: Routing for LEDs
+
+**Total time spent: 2 hours 9 minutes**
+
+# what did i do?
+- placement for each and every single sk6812 mini e
+- very repetitive and boring
+- played some technoblade to pass the time
+- then i started with routing
+- took some inspiration from a friend's keyboard with led
+- started routing with the DIN and DOUT
+- then with the level shifter
+- one thing i did was remove a lot of old traces to make room for the new ones
+- used a boatload of vias
+- pcb is finished, ready to ship!
+
+![Screenshot_2026-10-15_at_1.47.57_AM.png](https://cdn.hackclub.com/01a13c10-9a24-712b-a9de-42966bf0bdd0/Screenshot_2026-10-15_at_1.47.57_AM.png)
+
 # 2026-10-14: LED
 
 **Total time spent: 48 minutes**
