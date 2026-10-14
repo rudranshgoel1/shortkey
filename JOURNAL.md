@@ -5,6 +5,19 @@ description: "Planck keyboard"
 created_at: "2026-10-13"
 ---
 
+# 2026-10-14: routing
+
+**Total time spent: 42 minutes**
+
+# what did i do?
+- routed the diodes together (rows)
+- routed the keys to the diodes
+- routed the keys together (columns
+- placed the microcontroller on the top
+- routed the microcontroller one by one with the battery and rows x columns
+
+![Screenshot_2026-10-14_at_11.57.46_AM.png](https://cdn.hackclub.com/01a13918-8e44-7f96-81c1-bc447d011b13/Screenshot_2026-10-14_at_11.57.46_AM.png)
+
 # 2026-10-13: Placement (omg so tiring)
 
 **Total time spent: 42 minutes**
