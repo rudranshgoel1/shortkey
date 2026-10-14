@@ -1,0 +1,5 @@
+name: zmk-config-planck-wireless
+build:
+  cmake: .
+  settings:
+    board_root: .
