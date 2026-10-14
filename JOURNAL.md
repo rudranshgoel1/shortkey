@@ -5,6 +5,18 @@ description: "Planck keyboard"
 created_at: "2026-10-13"
 ---
 
+# 2026-10-14: LED
+
+**Total time spent: 48 minutes**
+
+# what did i do?
+- put up sk6812mini-e leds for well led purposes
+- wired the DIN with the prevs one DOUT
+- connected the VSS to GND
+- added a level shifter for converting 3v3 to 5v (took a whole lot of time to wire)
+
+![Screenshot_2026-10-14_at_8.54.04_PM.png](https://cdn.hackclub.com/01a13b03-82b4-7341-a2f6-2ab823f82e52/Screenshot_2026-10-14_at_8.54.04_PM.png)
+
 # 2026-10-14: CAD
 
 **Total time spent: 1 hour 3 minute**
